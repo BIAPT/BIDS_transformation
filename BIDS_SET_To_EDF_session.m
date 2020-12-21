@@ -34,7 +34,7 @@ for k = 1 : length(subFolders)
                         label = {EEG.chanlocs.labels};
                         
                         %read the example json
-                        tmp = split(subfiles(s).name,'_');
+                        tmp = split(subfiles(f).name,'_'); 
                         val = jsondecode(fileread('example.json'));
 
                         %fill in the new values
