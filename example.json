@@ -1,0 +1,14 @@
+{
+  "TaskName":"Resting State 30 Minutes Post Stimulation Eyes Closed",
+  "SamplingFrequency":250,
+  "Manufacturer":"EGI",
+  "ManufacturersModelName":"GTEN 200",
+  "CapManufacturer":"EGI",
+  "CapManufacturersModelName":"Hydrocel-GSN-129",
+  "EEGChannelCount":97,
+  "PowerLineFrequency":60,
+  "EEGReference":"average",
+  "SoftwareFilters":"n/a",
+  "RecordingDuration":45,
+  "RecordingType":"continuous"
+}
